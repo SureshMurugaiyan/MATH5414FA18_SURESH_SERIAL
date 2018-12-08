@@ -1,0 +1,46 @@
+2RD Navier Stokes Equation Using Finite Volume Method
+GRID Size:	 65 	 X 65 
+Reynolds number of the simulation:100.000000
+Iteration no:	1	 Ures: 	1.0000000000e+00	 Vres: 	1.0000000000e+00	 Pres: 	1.0000000000e+00	 
+Iteration no:	2	 Ures: 	1.1645840444e+00	 Vres: 	2.1900236889e+00	 Pres: 	1.9892548157e+00	 
+Iteration no:	3	 Ures: 	8.3641262191e-01	 Vres: 	3.2371248368e+00	 Pres: 	2.6160648887e+00	 
+Iteration no:	4	 Ures: 	6.5172724026e-01	 Vres: 	4.0956019602e+00	 Pres: 	3.1115120413e+00	 
+Iteration no:	5	 Ures: 	5.3432990726e-01	 Vres: 	4.8113917964e+00	 Pres: 	3.5151248638e+00	 
+Iteration no:	6	 Ures: 	4.5274296315e-01	 Vres: 	5.4133964144e+00	 Pres: 	3.8462558672e+00	 
+Iteration no:	7	 Ures: 	3.9240025962e-01	 Vres: 	5.9153662872e+00	 Pres: 	4.1193173770e+00	 
+Iteration no:	8	 Ures: 	3.4577360719e-01	 Vres: 	6.3313763147e+00	 Pres: 	4.3417711339e+00	 
+Iteration no:	9	 Ures: 	3.0860850169e-01	 Vres: 	6.6758909195e+00	 Pres: 	4.5155110789e+00	 
+Iteration no:	10	 Ures: 	2.7833478672e-01	 Vres: 	6.9614688972e+00	 Pres: 	4.6394800202e+00	 
+Iteration no:	11	 Ures: 	2.5332244933e-01	 Vres: 	7.1980413046e+00	 Pres: 	4.7117868902e+00	 
+Iteration no:	12	 Ures: 	2.3249837569e-01	 Vres: 	7.3931212243e+00	 Pres: 	4.7310658058e+00	 
+Iteration no:	13	 Ures: 	2.1513051760e-01	 Vres: 	7.5521654724e+00	 Pres: 	4.6972741356e+00	 
+Iteration no:	14	 Ures: 	2.0069571418e-01	 Vres: 	7.6788352995e+00	 Pres: 	4.6121385366e+00	 
+Iteration no:	15	 Ures: 	1.8879325295e-01	 Vres: 	7.7751812082e+00	 Pres: 	4.4793845748e+00	 
+Iteration no:	16	 Ures: 	1.7908705866e-01	 Vres: 	7.8418414272e+00	 Pres: 	4.3048278673e+00	 
+Iteration no:	17	 Ures: 	1.7126902170e-01	 Vres: 	7.8783195663e+00	 Pres: 	4.0963718796e+00	 
+Iteration no:	18	 Ures: 	1.6503972071e-01	 Vres: 	7.8833594785e+00	 Pres: 	3.8639380392e+00	 
+Iteration no:	19	 Ures: 	1.6010322744e-01	 Vres: 	7.8553917430e+00	 Pres: 	3.6193318306e+00	 
+Iteration no:	20	 Ures: 	1.5617175127e-01	 Vres: 	7.7929981330e+00	 Pres: 	3.3760060522e+00	 
+Iteration no:	21	 Ures: 	1.5297521261e-01	 Vres: 	7.6953317685e+00	 Pres: 	3.1486039866e+00	 
+Iteration no:	22	 Ures: 	1.5027128760e-01	 Vres: 	7.5624394445e+00	 Pres: 	2.9520612977e+00	 
+Iteration no:	23	 Ures: 	1.4785292526e-01	 Vres: 	7.3954531167e+00	 Pres: 	2.8000090624e+00	 
+Iteration no:	24	 Ures: 	1.4555210266e-01	 Vres: 	7.1966425567e+00	 Pres: 	2.7024647780e+00	 
+Iteration no:	25	 Ures: 	1.4323999414e-01	 Vres: 	6.9693443431e+00	 Pres: 	2.6634595369e+00	 
+Iteration no:	26	 Ures: 	1.4082450173e-01	 Vres: 	6.7177991571e+00	 Pres: 	2.6798779484e+00	 
+Iteration no:	27	 Ures: 	1.3824628615e-01	 Vres: 	6.4469375742e+00	 Pres: 	2.7424224841e+00	 
+Iteration no:	28	 Ures: 	1.3547426319e-01	 Vres: 	6.1621539334e+00	 Pres: 	2.8382267643e+00	 
+Iteration no:	29	 Ures: 	1.3250120015e-01	 Vres: 	5.8690996711e+00	 Pres: 	2.9536816863e+00	 
+Iteration no:	30	 Ures: 	1.2933970784e-01	 Vres: 	5.5735139956e+00	 Pres: 	3.0763869457e+00	 
+Iteration no:	31	 Ures: 	1.2601865366e-01	 Vres: 	5.2810937741e+00	 Pres: 	3.1960367234e+00	 
+Iteration no:	32	 Ures: 	1.2257985023e-01	 Vres: 	4.9973890776e+00	 Pres: 	3.3045720365e+00	 
+Iteration no:	33	 Ures: 	1.1907480346e-01	 Vres: 	4.7276990702e+00	 Pres: 	3.3959833356e+00	 
+Iteration no:	34	 Ures: 	1.1556131895e-01	 Vres: 	4.4769380288e+00	 Pres: 	3.4660096806e+00	 
+Iteration no:	35	 Ures: 	1.1209984709e-01	 Vres: 	4.2494464885e+00	 Pres: 	3.5118487300e+00	 
+Iteration no:	36	 Ures: 	1.0874957371e-01	 Vres: 	4.0487404907e+00	 Pres: 	3.5319136781e+00	 
+Iteration no:	37	 Ures: 	1.0556441153e-01	 Vres: 	3.8772223695e+00	 Pres: 	3.5256378172e+00	 
+Iteration no:	38	 Ures: 	1.0258919033e-01	 Vres: 	3.7359122258e+00	 Pres: 	3.4933154157e+00	 
+Iteration no:	39	 Ures: 	9.9856445272e-02	 Vres: 	3.6242839389e+00	 Pres: 	3.4359663062e+00	 
+Iteration no:	40	 Ures: 	9.7384226116e-02	 Vres: 	3.5402834938e+00	 Pres: 	3.3552143153e+00	 
+Iteration no:	41	 Ures: 	9.5175267057e-02	 Vres: 	3.4805623622e+00	 Pres: 	3.2531734411e+00	 
+Iteration no:	42	 Ures: 	9.3217669528e-02	 Vres: 	3.4408909183e+00	 Pres: 	3.1323392373e+00	 
+Iteration no:	43	 Ures: 	9.14869980
